@@ -18,7 +18,7 @@ Repository trên là phần Implement của nhóm cho bài tập giữa kì môn
 
 ## Cấu trúc của repository
 Repo này có 2 file chính notebook và 1 file pdf là báo cáo của nhóm.
-- Notebook model3 là notebook chứa mô hình, phương pháp xử lý ảnh, hàm loss, bộ tham số khi huấn luyện dem lại kết quả tốt nhất.
+- Notebook model3 là notebook chứa mô hình, phương pháp xử lý ảnh, hàm loss, bộ tham số khi huấn luyện đem lại kết quả tốt nhất.
 Nếu bạn muốn sử dụng các model đồ khác thì bạn có thể thay đổi cấu trúc của model để chạy.
 - Notebook predict thực hiện suy luận dựa trên file checkpoint của model3 đã được lưu sau khi huấn luyện. 
 - File Full_report.pdf là báo cáo của nhóm cho dự án này.
