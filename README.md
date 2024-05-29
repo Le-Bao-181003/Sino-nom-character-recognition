@@ -10,8 +10,8 @@
 Repository trên là phần Implement của nhóm cho bài tập giữa kì môn Xử lý ảnh về bài toán nhận diện dữ nôm.
 
 ## Cài đặt và chạy code
-Nếu bạn muốn chạy thử thì bạn chỉ cần tải 2 file notebook về rồi tạo notebook trên kaggle rồi chạy.
-Lưu ý: 
+- Nếu bạn muốn chạy thử thì bạn chỉ cần tải 2 file notebook về rồi tạo notebook trên kaggle rồi chạy.
+- Lưu ý: 
     - Để có thể chạy nhanh thì nên chọn accelerator là GPU T4 x2.
     - Với notebook model3 thì việc huấn luyện sẽ tốn khoảng 7 tiếng.
     - Với notebook predict thì sẽ chạy xong khá nhanh.
