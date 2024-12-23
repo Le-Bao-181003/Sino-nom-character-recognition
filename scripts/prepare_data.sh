@@ -1,0 +1,3 @@
+cd data/
+gdown 1Lo1HerwYc28vOuI5wO94VYjsGscFKndl
+unzip team14_sinonomdata.zip
